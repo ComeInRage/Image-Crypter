@@ -6,7 +6,7 @@ Software was created with learning purposes and include OpenCV library for C++.
 This is open-source project and you can download already compiled .exe file or source files. All this ways will be described below.
 
 ### Downloading program
-To download already compiled program you should go to [exe]() direction and download .exe and .dll files. After downloading start .exe file. **.exe and .dll files have to be in the same directory!**
+To download already compiled program you should go to [exe]() direction and download archieve and unpack it in any directory. After downloading start .exe file. **.exe and .dll files have to be in the same directory!**
 
 ### Downloading source
 To download source files you shoul go to [source]() direction and download all files in. After that you can open them in code editor. Source files are written in C++ language. If you want to compile source files you have to connect [**OpenCV v4.5.2 library**](https://opencv.org/) before.
